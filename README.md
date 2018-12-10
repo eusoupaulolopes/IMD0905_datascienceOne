@@ -9,9 +9,9 @@ Entregar os cadernos referente as aulas 16,17 e 18 do curso IMD0905 - CIÊNCIA D
 ### O Conjunto de dados
 
 
-- **Aula16** - Caderno + dados da aula 16
-- **Aula17** - Caderno + dados da aula 17
-- **Aula18** - Caderno + dados da aula 18
+- **Lesson_16** - Caderno + dados da aula 16
+- **Lesson_17** - Caderno + dados da aula 17
+- **Lesson_18** - Caderno + dados da aula 18
 
 ### Autores
 * Paulo Lopes - Desenvolvedor, Revisão e Tudo mais - [lopespaulo](https://github.com/lopespaulo)
